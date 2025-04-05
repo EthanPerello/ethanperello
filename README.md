@@ -20,6 +20,11 @@ I'm a developer and designer passionate about building games, simulations, and t
   A third-person Unity game where players explore an alien planet, fight enemies, and collect resources to escape. Includes enemy AI, health system, and game state transitions.  
   👉 [Play it here](https://ethanperello.itch.io/space-game)
 
+- 🏀 [March Madness Predictor](https://github.com/EthanPerello/march-madness-prediction)  
+  Machine learning project predicting NCAA tournament outcomes using team stats, seed differences, and betting odds. Implemented with Logistic Regression and XGBoost, evaluated using cross-validation and log-loss.  
+  👉 [View live project](https://ethanperello.github.io/march-madness-prediction/)
+
+
 ---
 
 ## 🌐 Portfolio
