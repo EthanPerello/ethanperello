@@ -6,15 +6,11 @@ I'm a developer and designer passionate about building games, simulations, and t
 
 - 🏙️ [City Builder Game](https://github.com/EthanPerello/DojoCityBuilder)  
   A blockchain-integrated city-building simulation built with Unity and Dojo (StarkNet). Features multiplayer gameplay, tile ownership, economy systems, and on-chain persistence.  
-  👉 [Play the demo](https://ethanperello.github.io/DojoCityBuilder/)
+  👉 [Play it here](https://ethanperello.github.io/DojoCityBuilder/)
 
 - 🛡️ [Medieval Fantasy RPG](https://github.com/EthanPerello/MidievalFantasyRPG)  
   A feature-rich Unity RPG with character leveling, AI companions, real-time combat, and quest systems.  
   👉 [Play it here](https://ethanperello.itch.io/midieval-fantasy-rpg)
-
-- 🧠 [NYC School Closure Predictor](https://github.com/EthanPerello/New-York-Student-Outcomes-and-School-Closures)  
-  A machine learning project predicting NYC school closures based on student subgroup outcomes. Built with Python, Scikit-learn, and logistic regression.  
-  👉 [View project site](https://ethanperello.github.io/New-York-Student-Outcomes-and-School-Closures/)
 
 - 🚀 [Space Adventure Game](https://github.com/EthanPerello/SpaceGame)  
   A third-person Unity game where players explore an alien planet, fight enemies, and collect resources to escape. Includes enemy AI, health system, and game state transitions.  
@@ -22,8 +18,11 @@ I'm a developer and designer passionate about building games, simulations, and t
 
 - 🏀 [March Madness Predictor](https://github.com/EthanPerello/march-madness-prediction)  
   Machine learning project predicting NCAA tournament outcomes using team stats, seed differences, and betting odds. Implemented with Logistic Regression and XGBoost, evaluated using cross-validation and log-loss.  
-  👉 [View live project](https://ethanperello.github.io/march-madness-prediction/)
+  👉 [View project site](https://ethanperello.github.io/march-madness-prediction/)
 
+- 🧠 [NYC School Closure Predictor](https://github.com/EthanPerello/New-York-Student-Outcomes-and-School-Closures)  
+  A machine learning project predicting NYC school closures based on student subgroup outcomes. Built with Python, Scikit-learn, and logistic regression.  
+  👉 [View project site](https://ethanperello.github.io/New-York-Student-Outcomes-and-School-Closures/)
 
 ---
 
