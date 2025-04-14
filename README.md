@@ -6,47 +6,15 @@ I create immersive experiences that combine strong technical systems with intuit
 
 ## 🚀 Featured Projects
 
-<table style="border-collapse: collapse;">
-  <tr style="background-color: transparent;">
-    <td width="70%" style="padding: 10px; vertical-align: top; border: none;">
-      <h3><a href="https://github.com/EthanPerello/npc-forge">NPC Forge</a> - AI Character Generator for Games</h3>
-      <ul>
-        <li><b>Tech Stack</b>: Next.js, TypeScript, Tailwind CSS, OpenAI API (GPT-4o, DALL-E)</li>
-        <li><b>Features</b>: Character generation from descriptions, AI-created portraits, comprehensive profiles with dialogue & quests</li>
-        <li><b>Live Demo</b>: <a href="https://npc-forge-ethan-perellos-projects.vercel.app">npc-forge.vercel.app</a></li>
-      </ul>
-    </td>
-    <td width="30%" style="padding: 10px; vertical-align: top; border: none;">
-      <img src="images/npc-forge.png" width="250px">
-    </td>
-  </tr>
-  <tr style="background-color: transparent;">
-    <td width="70%" style="padding: 10px; vertical-align: top; border: none;">
-      <h3><a href="https://github.com/EthanPerello/DojoCityBuilder">City Builder Game</a> - Blockchain-Integrated Simulation</h3>
-      <ul>
-        <li><b>Tech Stack</b>: Unity, Dojo Engine, StarkNet, C#</li>
-        <li><b>Features</b>: Multiplayer city simulation, on-chain data persistence, economy system, tile ownership</li>
-        <li><b>Play</b>: <a href="https://ethanperello.github.io/DojoCityBuilder/">ethanperello.github.io/DojoCityBuilder/</a></li>
-      </ul>
-    </td>
-    <td width="30%" style="padding: 10px; vertical-align: top; border: none;">
-      <img src="images/City_Builder_Game.png" width="250px">
-    </td>
-  </tr>
-  <tr style="background-color: transparent;">
-    <td width="70%" style="padding: 10px; vertical-align: top; border: none;">
-      <h3><a href="https://github.com/EthanPerello/MedievalFantasyRPG">Medieval Fantasy RPG</a> - Feature-Rich 3D Game</h3>
-      <ul>
-        <li><b>Tech Stack</b>: Unity, C#, Blender</li>
-        <li><b>Features</b>: Character progression, real-time combat, inventory systems, NavMesh AI, and quest systems</li>
-        <li><b>Play</b>: <a href="https://ethanperello.github.io/MedievalFantasyRPG/">ethanperello.github.io/MedievalFantasyRPG/</a></li>
-      </ul>
-    </td>
-    <td width="30%" style="padding: 10px; vertical-align: top; border: none;">
-      <img src="images/Midieval_Fantasy_RPG.png" width="250px">
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Project | Description |
+|:-------------------------:|:-------------------------:|
+| <div align="center"><img width="200" src="images/npc-forge.png"></div> | **[NPC Forge](https://github.com/EthanPerello/npc-forge)** - AI Character Generator<br>**Tech Stack**: Next.js, TypeScript, Tailwind CSS, OpenAI API<br>**Features**: Character generation, AI portraits, dialogue & quests<br>**[Live Demo](https://npc-forge-ethan-perellos-projects.vercel.app)** |
+| <div align="center"><img width="200" src="images/City_Builder_Game.png"></div> | **[City Builder Game](https://github.com/EthanPerello/DojoCityBuilder)** - Blockchain Simulation<br>**Tech Stack**: Unity, Dojo Engine, StarkNet, C#<br>**Features**: Multiplayer simulation, on-chain data, economy system<br>**[Play Now](https://ethanperello.github.io/DojoCityBuilder/)** |
+| <div align="center"><img width="200" src="images/Midieval_Fantasy_RPG.png"></div> | **[Medieval Fantasy RPG](https://github.com/EthanPerello/MedievalFantasyRPG)** - 3D Game<br>**Tech Stack**: Unity, C#, Blender<br>**Features**: Character progression, combat, inventory, NavMesh AI<br>**[Play Now](https://ethanperello.github.io/MedievalFantasyRPG/)** |
+
+</div>
 
 ## 💻 Technical Skills
 
