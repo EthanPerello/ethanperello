@@ -1,33 +1,45 @@
-# 👋 Hi, I'm Ethan
+# 👋 Hi, I'm Ethan Perello
 
-I'm a developer and designer passionate about building games, simulations, and tools that combine interactivity with strong technical systems. I work with Unity, React, and machine learning and I love exploring how gameplay, data, and code can create immersive experiences.
+**Software Developer** specializing in interactive applications, game development, and AI tools.
 
-## 🔧 Featured Projects
+I create immersive experiences that combine strong technical systems with intuitive design, using Unity, React, and AI.
 
-- 🏙️ [City Builder Game](https://github.com/EthanPerello/DojoCityBuilder)  
-  A blockchain-integrated city-building simulation built with Unity and Dojo (StarkNet). Features multiplayer gameplay, tile ownership, economy systems, and on-chain persistence.  
-  👉 [Play it here](https://ethanperello.github.io/DojoCityBuilder/)
+## 🚀 Featured Projects
 
-- 🛡️ [Medieval Fantasy RPG](https://github.com/EthanPerello/MedievalFantasyRPG)  
-  A feature-rich Unity RPG with character leveling, AI companions, real-time combat, and quest systems.  
-  👉 [Play it here](https://ethanperello.github.io/MedievalFantasyRPG/)
+### [NPC Forge](https://github.com/EthanPerello/npc-forge) - AI Character Generator for Games
+![NPC Forge Preview](images/npc-forge.png)
+- **Tech Stack**: Next.js, TypeScript, Tailwind CSS, OpenAI API (GPT-4o, DALL-E)
+- **Features**: Character generation from descriptions, AI-created portraits, comprehensive profiles with dialogue & quests
+- **Live Demo**: [npc-forge.vercel.app](https://npc-forge-ethan-perellos-projects.vercel.app)
 
-- 🚀 [Space Adventure Game](https://github.com/EthanPerello/SpaceGame)  
-  A third-person Unity game where players explore an alien planet, fight enemies, and collect resources to escape. Includes enemy AI, health system, and game state transitions.  
-  👉 [Play it here](https://ethanperello.github.io/SpaceGame/)
+### [City Builder Game](https://github.com/EthanPerello/DojoCityBuilder) - Blockchain-Integrated Simulation
+![City Builder Preview](images/City_Builder_Game.png)
+- **Tech Stack**: Unity, Dojo Engine, StarkNet, C#
+- **Features**: Multiplayer city simulation, on-chain data persistence, economy system, tile ownership
+- **Play**: [ethanperello.github.io/DojoCityBuilder](https://ethanperello.github.io/DojoCityBuilder/)
 
-- 🏀 [March Madness Predictor](https://github.com/EthanPerello/march-madness-prediction)  
-  Machine learning project predicting NCAA tournament outcomes using team stats, seed differences, and betting odds. Implemented with Logistic Regression and XGBoost, evaluated using cross-validation and log-loss.  
-  👉 [View project site](https://ethanperello.github.io/march-madness-prediction/)
+### [Medieval Fantasy RPG](https://github.com/EthanPerello/MedievalFantasyRPG) - Feature-Rich 3D Game
+![RPG Preview](images/Midieval_Fantasy_RPG.png)
+- **Tech Stack**: Unity, C#, Blender
+- **Features**: Character progression, real-time combat, inventory systems, NavMesh AI, and quest systems
+- **Play**: [ethanperello.github.io/MedievalFantasyRPG](https://ethanperello.github.io/MedievalFantasyRPG/)
 
-- 🧠 [NYC School Closure Predictor](https://github.com/EthanPerello/New-York-Student-Outcomes-and-School-Closures)  
-  A machine learning project predicting NYC school closures based on student subgroup outcomes. Built with Python, Scikit-learn, and logistic regression.  
-  👉 [View project site](https://ethanperello.github.io/New-York-Student-Outcomes-and-School-Closures/)
+## 💻 Technical Skills
+
+```
+• Languages:   JavaScript/TypeScript, Python, C#, C/C++, HTML/CSS, SQL, Cairo
+• Frameworks:  React, Next.js, Unity, Tailwind CSS
+• Dev Tools:   Git, VS Code, GitHub, Bash
+• ML & Data:   Pandas, NumPy, Scikit-learn, XGBoost
+• Design:      Photoshop, Illustrator, Premiere, Blender
+```
+
+## 🌐 Connect & Explore
+
+- **Portfolio**: [ethanperello.github.io](https://ethanperello.github.io)
+- **LinkedIn**: [linkedin.com/in/EthanPerello](http://linkedin.com/in/EthanPerello)
+- **Email**: ethanperello@gmail.com
 
 ---
 
-## 🌐 Portfolio
-
-Visit [ethanperello.github.io](https://ethanperello.github.io) to explore my full project gallery with web apps, game demos, and machine learning work.
-
----
+I'm currently focused on building AI-enhanced interactive applications and games. I'm particularly interested in the intersection of AI, blockchain, and game development.
