@@ -6,15 +6,11 @@ I create immersive experiences that combine strong technical systems with intuit
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | Project | Description |
-|:-------------------------:|:-------------------------:|
-| <div align="center"><img width="200" src="images/npc-forge.png"></div> | **[NPC Forge](https://github.com/EthanPerello/npc-forge)** - AI Character Generator<br>**Tech Stack**: Next.js, TypeScript, Tailwind CSS, OpenAI API<br>**Features**: Character generation, AI portraits, dialogue & quests<br>**[Live Demo](https://npc-forge-ethan-perellos-projects.vercel.app)** |
-| <div align="center"><img width="200" src="images/City_Builder_Game.png"></div> | **[City Builder Game](https://github.com/EthanPerello/DojoCityBuilder)** - Blockchain Simulation<br>**Tech Stack**: Unity, Dojo Engine, StarkNet, C#<br>**Features**: Multiplayer simulation, on-chain data, economy system<br>**[Play Now](https://ethanperello.github.io/DojoCityBuilder/)** |
-| <div align="center"><img width="200" src="images/Midieval_Fantasy_RPG.png"></div> | **[Medieval Fantasy RPG](https://github.com/EthanPerello/MedievalFantasyRPG)** - 3D Game<br>**Tech Stack**: Unity, C#, Blender<br>**Features**: Character progression, combat, inventory, NavMesh AI<br>**[Play Now](https://ethanperello.github.io/MedievalFantasyRPG/)** |
-
-</div>
+|---------|-------------|
+| <img width="250" src="images/npc-forge.png"> | **[NPC Forge](https://github.com/EthanPerello/npc-forge)** - AI Character Generator<br>**Tech Stack**: Next.js, TypeScript, Tailwind CSS, OpenAI API<br>**Features**: Character generation, AI portraits, dialogue & quests<br>**[Live Demo](https://npc-forge-ethan-perellos-projects.vercel.app)** |
+| <img width="250" src="images/City_Builder_Game.png"> | **[City Builder Game](https://github.com/EthanPerello/DojoCityBuilder)** - Blockchain Simulation<br>**Tech Stack**: Unity, Dojo Engine, StarkNet, C#<br>**Features**: Multiplayer simulation, on-chain data, economy system<br>**[Play Now](https://ethanperello.github.io/DojoCityBuilder/)** |
+| <img width="250" src="images/Midieval_Fantasy_RPG.png"> | **[Medieval Fantasy RPG](https://github.com/EthanPerello/MedievalFantasyRPG)** - 3D Game<br>**Tech Stack**: Unity, C#, Blender<br>**Features**: Character progression, combat, inventory, NavMesh AI<br>**[Play Now](https://ethanperello.github.io/MedievalFantasyRPG/)** |
 
 ## 💻 Technical Skills
 
