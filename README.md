@@ -6,9 +6,9 @@ I create immersive experiences that combine strong technical systems with intuit
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="70%">
+<table style="border-collapse: collapse;">
+  <tr style="background-color: transparent;">
+    <td width="70%" style="padding: 10px; vertical-align: top; border: none;">
       <h3><a href="https://github.com/EthanPerello/npc-forge">NPC Forge</a> - AI Character Generator for Games</h3>
       <ul>
         <li><b>Tech Stack</b>: Next.js, TypeScript, Tailwind CSS, OpenAI API (GPT-4o, DALL-E)</li>
@@ -16,12 +16,12 @@ I create immersive experiences that combine strong technical systems with intuit
         <li><b>Live Demo</b>: <a href="https://npc-forge-ethan-perellos-projects.vercel.app">npc-forge.vercel.app</a></li>
       </ul>
     </td>
-    <td width="30%">
+    <td width="30%" style="padding: 10px; vertical-align: top; border: none;">
       <img src="images/npc-forge.png" width="250px">
     </td>
   </tr>
-  <tr>
-    <td width="70%">
+  <tr style="background-color: transparent;">
+    <td width="70%" style="padding: 10px; vertical-align: top; border: none;">
       <h3><a href="https://github.com/EthanPerello/DojoCityBuilder">City Builder Game</a> - Blockchain-Integrated Simulation</h3>
       <ul>
         <li><b>Tech Stack</b>: Unity, Dojo Engine, StarkNet, C#</li>
@@ -29,12 +29,12 @@ I create immersive experiences that combine strong technical systems with intuit
         <li><b>Play</b>: <a href="https://ethanperello.github.io/DojoCityBuilder/">ethanperello.github.io/DojoCityBuilder/</a></li>
       </ul>
     </td>
-    <td width="30%">
+    <td width="30%" style="padding: 10px; vertical-align: top; border: none;">
       <img src="images/City_Builder_Game.png" width="250px">
     </td>
   </tr>
-  <tr>
-    <td width="70%">
+  <tr style="background-color: transparent;">
+    <td width="70%" style="padding: 10px; vertical-align: top; border: none;">
       <h3><a href="https://github.com/EthanPerello/MedievalFantasyRPG">Medieval Fantasy RPG</a> - Feature-Rich 3D Game</h3>
       <ul>
         <li><b>Tech Stack</b>: Unity, C#, Blender</li>
@@ -42,7 +42,7 @@ I create immersive experiences that combine strong technical systems with intuit
         <li><b>Play</b>: <a href="https://ethanperello.github.io/MedievalFantasyRPG/">ethanperello.github.io/MedievalFantasyRPG/</a></li>
       </ul>
     </td>
-    <td width="30%">
+    <td width="30%" style="padding: 10px; vertical-align: top; border: none;">
       <img src="images/Midieval_Fantasy_RPG.png" width="250px">
     </td>
   </tr>
