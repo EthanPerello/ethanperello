@@ -4,16 +4,74 @@
 I create immersive experiences and developer tools that combine advanced AI capabilities with intuitive design, using Next.js, Unity, and cutting-edge AI APIs.
 
 ## 🏆 Flagship Project: NPC Forge
-| Project | Description |
-|---------|-------------|
-| <img width="1000" src="images/npc-forge.png"> | **[NPC Forge](https://github.com/EthanPerello/npc-forge)** - AI Character Platform for Game Developers (v0.30.0)<br><br>A production-ready AI platform that revolutionizes character creation for game developers and storytellers. Generate detailed NPCs with personalities, quests, dialogue, and AI portraits, then chat with them in real-time. Built to solve the time-intensive process of creating rich, interactive characters for games and stories.<br><br>**🎮 Game Dev Features**: Character generation • AI portrait creation & editing • Interactive dialogue systems • Quest & item generation • JSON export for game integration • Real-time character chat for testing<br><br>**💻 Tech Stack**: Next.js 15, TypeScript, Tailwind CSS, 6+ OpenAI Models (GPT-4o, DALL-E 3, Image Editing, Chat Completion)<br><br>**📈 Impact**: 30+ feature releases • Production deployment • Comprehensive documentation • Advanced multi-model AI orchestration<br><br>**[🌐 Live Demo](https://npc-forge.vercel.app)** \| **[📖 Documentation](https://npc-forge.vercel.app/docs)** \| **[💬 Try Chat Feature](https://npc-forge.vercel.app/docs/chat)** |
+
+<div align="center">
+  <img src="images/npc-forge.png" width="800" alt="NPC Forge Platform">
+</div>
+
+### **[NPC Forge](https://github.com/EthanPerello/npc-forge)** - AI Character Platform for Game Developers
+
+A production-ready AI platform that revolutionizes character creation for game developers and storytellers. Generate detailed NPCs with personalities, quests, dialogue, and AI portraits, then chat with them in real-time. Built to solve the time-intensive process of creating rich, interactive characters for games and stories.
+
+**🎮 Game Dev Features**: Character generation • AI portrait creation & editing • Interactive dialogue systems • Quest & item generation • JSON export for game integration • Real-time character chat for testing
+
+**💻 Tech Stack**: Next.js 15, TypeScript, Tailwind CSS, 6+ OpenAI Models (GPT-4o, DALL-E 3, Image Editing, Chat Completion)
+
+**📈 Impact**: 30+ feature releases • Production deployment • Comprehensive documentation • Advanced multi-model AI orchestration
+
+**[🌐 Live Demo](https://npc-forge.vercel.app)** | **[📖 Documentation](https://npc-forge.vercel.app/docs)** | **[💬 Try Chat Feature](https://npc-forge.vercel.app/docs/chat)**
+
+---
 
 ## 🎮 Featured Games
-| Project | Description |
-|---------|-------------|
-| <img width="1000" src="images/City_Builder_Game.png"> | **[On-Chain City Builder](https://github.com/EthanPerello/DojoCityBuilder)** - Blockchain Multiplayer Game<br><br>A groundbreaking multiplayer city simulation that integrates blockchain technology for persistent, verifiable gameplay. Players purchase land, construct buildings, and participate in a shared economy where all actions are recorded on-chain.<br><br>**🔗 Innovation**: Blockchain integration, persistent multiplayer state, decentralized ownership<br>**🎯 Gameplay**: Real-time city building, economic simulation, strategic resource management<br>**💻 Tech**: Unity, Dojo Engine, StarkNet, C#<br><br>**[🎮 Play Now](https://ethanperello.github.io/DojoCityBuilder/)** \| **[📺 Demo Video](https://www.youtube.com/watch?v=lORypXL-UwA)** |
-| <img width="1000" src="images/Midieval_Fantasy_RPG.png"> | **[Medieval Fantasy RPG](https://github.com/EthanPerello/MedievalFantasyRPG)** - Complex Systems RPG<br><br>A feature-rich 3D RPG showcasing sophisticated game systems and AI. Demonstrates mastery of character progression, inventory management, quest systems, and intelligent enemy AI in a cohesive fantasy world.<br><br>**⚔️ Systems**: Character progression, equipment-based stats, inventory management, quest tracking<br>**🤖 AI**: NavMesh enemy AI, companion pets, finite state machines<br>**💻 Tech**: Unity, C#, Blender, Custom Animation Controllers<br><br>**[🎮 Play Now](https://ethanperello.github.io/MedievalFantasyRPG/)** |
-| <img width="1000" src="images/Space_Game.png"> | **[Space Adventure](https://github.com/EthanPerello/SpaceGame)** - Polished 3D Action Game<br><br>A complete 3D action-adventure game built for Harvard's edX Game Development course. Showcases professional game development fundamentals with polished gameplay, UI, and game state management.<br><br>**🚀 Polish**: Complete game loop, professional UI, state management, win/lose conditions<br>**🎯 Mechanics**: 3D movement, combat systems, collectibles, enemy AI<br>**💻 Tech**: Unity, C#, 3D Physics, NavMesh AI<br><br>**[🎮 Play Now](https://ethanperello.github.io/SpaceGame/)** \| **[📺 Demo Video](https://www.youtube.com/watch?v=CufS2USIR1Y)** |
+
+### On-Chain City Builder - Blockchain Multiplayer Game
+
+<div align="center">
+  <img src="images/City_Builder_Game.png" width="700" alt="City Builder Game">
+</div>
+
+**[GitHub](https://github.com/EthanPerello/DojoCityBuilder)** | **[🎮 Play Now](https://ethanperello.github.io/DojoCityBuilder/)** | **[📺 Demo Video](https://www.youtube.com/watch?v=lORypXL-UwA)**
+
+A groundbreaking multiplayer city simulation that integrates blockchain technology for persistent, verifiable gameplay. Players purchase land, construct buildings, and participate in a shared economy where all actions are recorded on-chain.
+
+**🔗 Innovation**: Blockchain integration, persistent multiplayer state, decentralized ownership  
+**🎯 Gameplay**: Real-time city building, economic simulation, strategic resource management  
+**💻 Tech**: Unity, Dojo Engine, StarkNet, C#
+
+---
+
+### Medieval Fantasy RPG - Complex Systems RPG
+
+<div align="center">
+  <img src="images/Midieval_Fantasy_RPG.png" width="700" alt="Medieval Fantasy RPG">
+</div>
+
+**[GitHub](https://github.com/EthanPerello/MedievalFantasyRPG)** | **[🎮 Play Now](https://ethanperello.github.io/MedievalFantasyRPG/)**
+
+A feature-rich 3D RPG showcasing sophisticated game systems and AI. Demonstrates mastery of character progression, inventory management, quest systems, and intelligent enemy AI in a cohesive fantasy world.
+
+**⚔️ Systems**: Character progression, equipment-based stats, inventory management, quest tracking  
+**🤖 AI**: NavMesh enemy AI, companion pets, finite state machines  
+**💻 Tech**: Unity, C#, Blender, Custom Animation Controllers
+
+---
+
+### Space Adventure - Polished 3D Action Game
+
+<div align="center">
+  <img src="images/Space_Game.png" width="700" alt="Space Adventure Game">
+</div>
+
+**[GitHub](https://github.com/EthanPerello/SpaceGame)** | **[🎮 Play Now](https://ethanperello.github.io/SpaceGame/)** | **[📺 Demo Video](https://www.youtube.com/watch?v=CufS2USIR1Y)**
+
+A complete 3D action-adventure game built for Harvard's edX Game Development course. Showcases professional game development fundamentals with polished gameplay, UI, and game state management.
+
+**🚀 Polish**: Complete game loop, professional UI, state management, win/lose conditions  
+**🎯 Mechanics**: 3D movement, combat systems, collectibles, enemy AI  
+**💻 Tech**: Unity, C#, 3D Physics, NavMesh AI
+
+---
 
 ## 💻 Technical Skills
 - **Game Development**: Unity, C#, 3D Physics, NavMesh AI, Animation Controllers, Game State Management
