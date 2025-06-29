@@ -23,12 +23,12 @@ A production-ready AI platform that revolutionizes character creation for game d
 
 ---
 
-## 🎮 Featured Games
+## 🎮 Main Game Projects
 
 ### Detective Game - Blockchain + AI Murder Mystery
 
 <div align="center">
-  <img src="images/detective-game.jpeg" width="700" alt="Detective Game" style="background: #1a1a1a; padding: 20px; border-radius: 8px;">
+  <img src="images/detective-game.jpeg" width="700" alt="Detective Game">
 </div>
 
 **[GitHub](https://github.com/EthanPerello/detective-game)** | **[🎮 Play Now](https://detective-game-iota.vercel.app)**
@@ -41,23 +41,7 @@ A blockchain-first murder mystery game that combines AI-powered dialogue with pr
 
 ---
 
-### On-Chain City Builder - Blockchain Multiplayer Game
-
-<div align="center">
-  <img src="images/City_Builder_Game.png" width="700" alt="City Builder Game">
-</div>
-
-**[GitHub](https://github.com/EthanPerello/DojoCityBuilder)** | **[🎮 Play Now](https://ethanperello.github.io/DojoCityBuilder/)** | **[📺 Demo Video](https://www.youtube.com/watch?v=lORypXL-UwA)**
-
-A groundbreaking multiplayer city simulation that integrates blockchain technology for persistent, verifiable gameplay. Players purchase land, construct buildings, and participate in a shared economy where all actions are recorded on-chain.
-
-**🔗 Innovation**: Blockchain integration, persistent multiplayer state, decentralized ownership  
-**🎯 Gameplay**: Real-time city building, economic simulation, strategic resource management  
-**💻 Tech**: Unity, Dojo Engine, StarkNet, C#
-
----
-
-### Medieval Fantasy RPG - Complex Systems RPG
+### Medieval Fantasy RPG - Complex Game Systems
 
 <div align="center">
   <img src="images/Midieval_Fantasy_RPG.png" width="700" alt="Medieval Fantasy RPG">
@@ -73,18 +57,32 @@ A feature-rich 3D RPG showcasing sophisticated game systems and AI. Demonstrates
 
 ---
 
+## 🌟 Additional Notable Projects
+
+### On-Chain City Builder - Blockchain Multiplayer Game
+
+<div align="center">
+  <img src="images/City_Builder_Game.png" width="600" alt="City Builder Game">
+</div>
+
+**[GitHub](https://github.com/EthanPerello/DojoCityBuilder)** | **[🎮 Play Now](https://ethanperello.github.io/DojoCityBuilder/)** | **[📺 Demo Video](https://www.youtube.com/watch?v=lORypXL-UwA)**
+
+Blockchain-integrated multiplayer city simulation using Unity and Dojo/StarkNet. All game data including player balances, tile ownership, and building states are recorded on-chain for persistent, verifiable gameplay.
+
+**💻 Tech**: Unity, Dojo Engine, StarkNet, C#
+
+---
+
 ### Space Adventure - Polished 3D Action Game
 
 <div align="center">
-  <img src="images/Space_Game.png" width="700" alt="Space Adventure Game">
+  <img src="images/Space_Game.png" width="600" alt="Space Adventure Game">
 </div>
 
 **[GitHub](https://github.com/EthanPerello/SpaceGame)** | **[🎮 Play Now](https://ethanperello.github.io/SpaceGame/)** | **[📺 Demo Video](https://www.youtube.com/watch?v=CufS2USIR1Y)**
 
-A complete 3D action-adventure game built for Harvard's edX Game Development course. Showcases professional game development fundamentals with polished gameplay, UI, and game state management.
+Complete 3D action-adventure game built for Harvard's edX Game Development course. Showcases professional game development fundamentals with polished gameplay, UI, and comprehensive game state management.
 
-**🚀 Polish**: Complete game loop, professional UI, state management, win/lose conditions  
-**🎯 Mechanics**: 3D movement, combat systems, collectibles, enemy AI  
 **💻 Tech**: Unity, C#, 3D Physics, NavMesh AI
 
 ---
