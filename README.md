@@ -25,6 +25,22 @@ A production-ready AI platform that revolutionizes character creation for game d
 
 ## 🎮 Featured Games
 
+### Detective Game - Blockchain + AI Murder Mystery
+
+<div align="center">
+  <img src="images/detective-game.png" width="700" alt="Detective Game" style="background: #1a1a1a; padding: 20px; border-radius: 8px;">
+</div>
+
+**[GitHub](https://github.com/EthanPerello/detective-game)** | **[🎮 Play Now](https://detective-game-iota.vercel.app)**
+
+A blockchain-first murder mystery game that combines AI-powered dialogue with provable on-chain mechanics. Built for Dojo Game Jam 6 ($25,000 prize pool), demonstrating innovative integration between expressive AI and blockchain transparency.
+
+**🔗 Innovation**: Blockchain game state, AI-powered suspects, hybrid architecture  
+**🎯 Gameplay**: Dynamic interrogations, single-accusation mechanic, case tracking  
+**💻 Tech**: React, TypeScript, OpenAI GPT-4o, Dojo Engine, Starknet
+
+---
+
 ### On-Chain City Builder - Blockchain Multiplayer Game
 
 <div align="center">
