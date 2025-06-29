@@ -28,7 +28,7 @@ A production-ready AI platform that revolutionizes character creation for game d
 ### Detective Game - Blockchain + AI Murder Mystery
 
 <div align="center">
-  <img src="images/detective-game.png" width="700" alt="Detective Game" style="background: #1a1a1a; padding: 20px; border-radius: 8px;">
+  <img src="images/detective-game.jpeg" width="700" alt="Detective Game" style="background: #1a1a1a; padding: 20px; border-radius: 8px;">
 </div>
 
 **[GitHub](https://github.com/EthanPerello/detective-game)** | **[🎮 Play Now](https://detective-game-iota.vercel.app)**
