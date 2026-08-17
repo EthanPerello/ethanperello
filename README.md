@@ -1,10 +1,8 @@
 # Ethan Perello
 
-I work where AI, technology, and animation come together.
+I build AI tools for creative work, with a focus on how models, applications, infrastructure, production software, and creative tools fit together.
 
-I am currently a freelance Junior AI Technician at Hornet. My focus is understanding and connecting complete systems, including AI models, applications, APIs, cloud infrastructure, production software, and creative tools.
-
-AI-assisted development is central to how I work. My programming background helps me understand what is happening underneath, make good technical decisions, and troubleshoot problems across a workflow.
+I am currently a freelance Junior AI Technician at Hornet. AI-assisted development is central to how I work, and my programming background helps me make informed technical decisions and troubleshoot complete workflows.
 
 ## Current focus
 
@@ -12,7 +10,7 @@ AI-assisted development is central to how I work. My programming background help
 - Multimodal AI and model integration
 - Cloud infrastructure and workflow automation
 - Creative production and pipeline tooling
-- Animation and DCC integrations
+- Animation pipelines and integrations with creative production software
 
 ## Background
 
