@@ -14,6 +14,6 @@ I am currently a freelance Junior AI Technician at Hornet. AI-assisted developme
 
 ## Background
 
-Before moving into creative AI, I worked across game development, full-stack applications, data science, animation, and production. I have also participated in multiple game jams and completed Curious Refuge's AI Filmmaking course in 2025.
+Before moving into creative AI, I worked across game development, full-stack applications, data science, animation, and production. That range continues to shape how I approach systems and creative workflows.
 
 [Portfolio](https://ethanperello.github.io) | [LinkedIn](https://www.linkedin.com/in/ethanperello/) | [Email](mailto:ethanperello@gmail.com)
