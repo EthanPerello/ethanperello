@@ -2,7 +2,9 @@
 
 I build AI tools for creative work, with a focus on how models, applications, infrastructure, production software, and creative tools fit together.
 
-I am currently a freelance Junior AI Technician at Hornet. AI-assisted development is central to how I work, and my programming background helps me make informed technical decisions and troubleshoot complete workflows.
+I currently work as a freelance Junior AI Technician at Hornet.
+
+AI-assisted development is central to how I work, and my programming background helps me make informed technical decisions and troubleshoot complete workflows.
 
 ## Current focus
 
